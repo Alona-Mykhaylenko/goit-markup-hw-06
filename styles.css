@@ -1081,7 +1081,7 @@ img {
 }
 
 .user-agreement-checkbox-box:checked + .user-agreement-checkbox::before {
-  background-image: url(../images/check.svg);
+  background-image: url(./images/check.svg);
   background-repeat: no-repeat;
   background-size: 11px;
   background-position: center;
